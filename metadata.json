@@ -1,0 +1,7 @@
+{
+  "name": "SARA",
+  "description": "A realistic voice-based mock training system for sales executives using Gemini Live API to simulate customers and evaluate performance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
